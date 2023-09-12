@@ -1,1 +1,1 @@
-Project React fundamentals + Typescript
+Project React fundamentals + Typescript + Tailwind
